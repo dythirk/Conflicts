@@ -1,7 +1,8 @@
 1. line 1
 2. line 2
 3. line 3 on the feature branch
-<<<<<<< HEAD
-=======
 4. line 4 on the feature branch
->>>>>>> feature
+
+
+**I'm sorry, I've done the conflict merge twice, exactly the way Seth taught us in the video, but I keep getting conflict markers added
+to my file. I need to know how to configure VS to not do this, because it's really frustrating.**
